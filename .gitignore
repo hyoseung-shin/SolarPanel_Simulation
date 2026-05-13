@@ -1,0 +1,13 @@
+.vs/
+Binaries/
+Intermediate/
+DerivedDataCache/
+Saved/
+
+*.pdb
+*.obj
+*.pch
+*.ipch
+*.VC.db
+*.opendb
+*.suo
